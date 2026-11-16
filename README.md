@@ -305,7 +305,7 @@ Permite:
 A **Conta Clara** é um aplicativo de finanças pessoais centrado em conversação que permite registrar receitas, despesas e metas financeiras por linguagem natural. A plataforma combina uma assistente financeira inteligente, painel financeiro simplificado, gestão de metas e recursos de acessibilidade para oferecer uma experiência intuitiva, inclusiva e fácil de usar para quem deseja organizar melhor sua vida financeira.
 
 
-##Reflexão
+Reflexão
 ### O que funcionou bem?  
 
 
